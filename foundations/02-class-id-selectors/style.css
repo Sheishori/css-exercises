@@ -1,0 +1,19 @@
+.pizza {
+  background-color: rgb(255, 190, 190);
+  font-family: Verdana, sans-serif;
+}
+
+.pizza.pepperoni {
+  font-size: 24px;
+}
+
+#mozzarella {
+  color: rgb(45, 45, 255);
+  font-size: 36px;
+}
+
+#cheddar {
+  background-color: rgb(170, 255, 170);
+  font-size: 24px;
+  font-weight: bold;
+}
