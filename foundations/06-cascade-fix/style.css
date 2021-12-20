@@ -31,11 +31,11 @@
 }
 
 .child {
-  color: green;
+  color: red;
   font-size: 14px;
 }
 
 div.text {
-  color: blue;
+  color: green;
   font-size: 28px;
 }
